@@ -1,10 +1,8 @@
-# AI-CHATBOT-WITH-PYHTON
-A simple AI chatbot in Python that responds to user input with predefined messages
-
 # AI Chatbot in Python
 
 A simple AI chatbot built with Python that interacts with users through the command line. 
-It can respond to greetings, answer questions about AI and Python, tell jokes, and provide motivation.
+It can respond to greetings, answer questions about AI and Python, tell jokes, and provide motivation. 
+In the future, I plan to enhance this chatbot by adding **Natural Language Processing (NLP)** and **Machine Learning (ML)** concepts as part of my studies.
 
 ## Features
 - Responds to greetings like "hello" or "hi"
